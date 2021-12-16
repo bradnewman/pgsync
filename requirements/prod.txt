@@ -65,7 +65,7 @@ python-dateutil==2.8.2
     #   faker
 python-dotenv==0.19.2
     # via environs
-redis==4.0.2
+redis==3.5.3
     # via -r requirements/base.in
 requests==2.26.0
     # via requests-aws4auth
